@@ -73,7 +73,7 @@ Foi utilizada a abordagem de **Aprendizado de Máquina supervisionado**, com mod
 ## 👨‍👩‍👧‍👦 Equipe
 
 - Leonardo Gomes ([@seuuser](https://github.com/seuuser))
-- Nome 2
+- Ian Martins Arantes ([@1IanIanIan](https://github.com/1IanIanIan))
 - Nome 3
 - Nome 4
 - Nome 5
